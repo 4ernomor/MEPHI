@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class task349 {
     public static void main(String[] args) {
-        String[] reverseMassive = {"Петя","Маша","Саша","Ира","Коля","Вася","Рома2"};
+        String[] reverseMassive = {"Петя","Маша","Саша","Ира","Коля","Вася","Рома1"};
         int left = 0;
         int right = reverseMassive.length -1;
 
